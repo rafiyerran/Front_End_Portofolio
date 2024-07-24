@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 import Avatar from "../../assets/4k background.jfif"
 import ProjectCard from '../../components/project-card';
